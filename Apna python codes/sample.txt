@@ -1,0 +1,3 @@
+Hello, World!
+I am learning about files in python.
+I know tuples, dict.
