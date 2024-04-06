@@ -1,7 +1,0 @@
-name = input("name : ")
-print(name)
-age = int(input("age : "))
-price = float(input("price : "))
-print(price)
-print("My name is", name, "My age is",age)
-print(not True and False or True) #Operator precedence order is (not > and > or)
